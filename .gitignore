@@ -1,0 +1,5 @@
+/packages
+/TeamCity/bin
+/TeamCity/bower_components
+/TeamCity/node_modules
+/TeamCity/obj
